@@ -1,0 +1,13 @@
+[package]
+name = "ishan"
+version = "0.1.0"
+edition = "2021"
+authors = ["NoobScience <noobscience@duck.com>"]
+description = "A Crate containing all the general purpose functions that I use in my projects"
+license = "MIT"
+repository = "https://github.com/newtoallofthis123/ishan"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ip_extractor ={ version = "0.1"}
